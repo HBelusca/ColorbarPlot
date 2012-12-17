@@ -1,5 +1,5 @@
 ColorbarPlot v0.6 (2010 July 10)
-=================
+================================
 
 ColorbarPlot is a function to plot a ContourPlot, DensityPlot or 3D plot with an attached colorbar to indicate the ranges of the function that is being plotted. The syntax is not exactly the same as for the built-in functions.
 
@@ -8,7 +8,7 @@ Warning! v0.4 and above is not backwards compatibile with versions 0.3 and below
 The following functions are supported by ColorbarPlot:
 
 - (List)ContourPlot
-- List)DensityPlot
+- (List)DensityPlot
 - (List)Plot3D
 - ListPointPlot3D
 
